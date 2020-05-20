@@ -145,7 +145,7 @@
 
 				
 					<tr>
-						<td width="100%" class="full-width-image"><img src="https://cassiaribas.github.io/credencial/topo.jpg" width="600" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto;"></td>
+						<td width="100%" class="full-width-image"><img src="https://cassiaribas.github.io/credencial/topo.jpg" width="600" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto;" href="https://www.feiraebs.com.br/feira-ebs-2020/"></td>
 					  </tr>
 					
 					<tr>
@@ -159,7 +159,7 @@
 
 						<table cellspacing="0" cellpadding="0" border="0" align="center" style="margin: auto">
 							<tr>
-							<td style="border-radius: 3px; background: #f3a015; text-align: center;" class="button-td"><a href="http://www.google.com" style="background: #f3a015; border: 15px solid #f3a015; padding: 0 10px;color: #002b4b  ; font-family: sans-serif; font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a"> 
+							<td style="border-radius: 3px; background: #f3a015; text-align: center;" class="button-td"><a href="https://www.feiraebs.com.br/feira-ebs-2020/" style="background: #f3a015; border: 15px solid #f3a015; padding: 0 10px;color: #002b4b  ; font-family: sans-serif; font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a"> 
 							  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Inscreva-se<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--> 
 							  </a></td>
 						  </tr>
