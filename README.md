@@ -1,11 +1,5 @@
 # credencial
-git clone https://cassiaribas.github.io/credencial/
-touch README.md
-git add README.md
-git commit -m "add README"
-git push -u origin master
 
-<!doctype html>
 		<html>
 			<head>
 			<meta charset="utf-8">
