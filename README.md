@@ -133,10 +133,10 @@
 			
 
 					
-					<table align="center" width="600" class="email-container">
+				  <table align="center" width="600" class="email-container">
 					<tr>
 						<td style="padding: 20px 0; text-align: center"><img src="https://cassiaribas.github.io/credencial//logo-topo.jpg" width="200" height="50" alt="alt_text" border="0"></td>
-					  </tr>
+				    </tr>
 				  </table>
 					<!-- Email Header : END --> 
 
@@ -145,7 +145,7 @@
 
 				
 					<tr>
-						<td class="full-width-image"><img src="https://cassiaribas.github.io/credencial/topo.jpg" width="600" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto;"></td>
+						<td width="100%" class="full-width-image"><img src="https://cassiaribas.github.io/credencial/topo.jpg" width="600" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto;"></td>
 					  </tr>
 					
 					<tr>
@@ -208,85 +208,11 @@
 					  </tr>
 					<!-- Two Even Columns : END --> 
 
-					<!-- Three Even Columns : BEGIN -->
-					<tr>
-						<td align="center" valign="top" style="padding: 10px;"><table cellspacing="0" cellpadding="0" border="0" width="100%">
-							<tr>
-							<td width="33.33%" class="stack-column-center">&nbsp;</td>
-							<td width="33.33%" class="stack-column-center">&nbsp;</td>
-							<td width="33.33%" class="stack-column-center">&nbsp;</td>
-						  </tr>
-						  </table></td>
-					  </tr>
-					<!-- Three Even Columns : END --> 
+					<!-- Three Even Columns : BEGIN -->					<!-- Three Even Columns : END --> 
 
-					<!-- Thumbnail Left, Text Right : BEGIN -->
-					<tr>
-						<td dir="ltr" align="center" valign="top" width="100%" style="padding: 10px;"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tr>
-							<td width="33.33%" class="stack-column-center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-								<tr>
-								<td dir="ltr" valign="top" style="padding: 0 10px;"><img src="../images/Image_170x170.png"  width="170" alt="alt_text" border="0" class="center-on-narrow"></td>
-							  </tr>
-							  </table></td>
-							<td width="66.66%" class="stack-column-center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-								<tr>
-								<td dir="ltr" valign="top" style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 10px; text-align: left;" class="center-on-narrow"><strong style="color:#111111;">Class aptent taciti sociosqu</strong> <br>
-									<br>
-									Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. <br>
-									<br>
+					<!-- Thumbnail Left, Text Right : BEGIN -->					<!-- Thumbnail Left, Text Right : END --> 
 
-									<!-- Button : Begin -->
-
-									<table cellspacing="0" cellpadding="0" border="0" class="center-on-narrow" style="float:left;">
-									<tr>
-										<td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"><a href="http://www.google.com" style="background: #222222; border: 15px solid #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a"> 
-										  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->A Button<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--> 
-										  </a></td>
-									  </tr>
-								  </table>
-
-									<!-- Button : END --></td>
-							  </tr>
-							  </table></td>
-						  </tr>
-						  </table></td>
-					  </tr>
-					<!-- Thumbnail Left, Text Right : END --> 
-
-					<!-- Thumbnail Right, Text Left : BEGIN -->
-					<tr>
-						<td dir="rtl" align="center" valign="top" width="100%" style="padding: 10px;"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tr>
-							<td width="33.33%" class="stack-column-center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-								<tr>
-								<td dir="ltr" valign="top" style="padding: 0 10px;"><img src="../images/Image_170x170.png" width="170" alt="alt_text" border="0" class="center-on-narrow"></td>
-							  </tr>
-							  </table></td>
-							<td width="66.66%" class="stack-column-center"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-								<tr>
-								<td dir="ltr" valign="top" style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 10px; text-align: left;" class="center-on-narrow"><strong style="color:#111111;">Class aptent taciti sociosqu</strong> <br>
-									<br>
-									Maecenas sed ante pellentesque, posuere leo id, eleifend dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. <br>
-									<br>
-
-									<!-- Button : Begin -->
-
-									<table cellspacing="0" cellpadding="0" border="0" class="center-on-narrow" style="float:left;">
-									<tr>
-										<td style="border-radius: 3px; background: #222222; text-align: center;" class="button-td"><a href="http://www.google.com" style="background: #222222; border: 15px solid #222222; padding: 0 10px;color: #ffffff; font-family: sans-serif; font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a"> 
-										  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->A Button<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--> 
-										  </a></td>
-									  </tr>
-								  </table>
-
-									<!-- Button : END --></td>
-							  </tr>
-							  </table></td>
-						  </tr>
-						  </table></td>
-					  </tr>
-					<!-- Thumbnail Right, Text Left : END -->
+					<!-- Thumbnail Right, Text Left : BEGIN -->					<!-- Thumbnail Right, Text Left : END -->
 
 				  </table>
 					<!-- Email Body : END --> 
