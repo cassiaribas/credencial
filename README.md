@@ -1,6 +1,5 @@
-		# credencial
-git clone https://gitlab.com/anacassiaribas/credencial.git
-cd credencial
+# credencial
+git clone https://cassiaribas.github.io/credencial/
 touch README.md
 git add README.md
 git commit -m "add README"
