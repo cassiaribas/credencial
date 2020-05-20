@@ -1,5 +1,5 @@
 # credencial
-<!doctype html>
+
 <html>
     <head>
     <meta charset="utf-8">
@@ -8,7 +8,7 @@
     <!-- Forcing initial-scale shouldn't be necessary -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Use the latest (edge) version of IE rendering engine -->
-    <title>EmailTemplate-Responsive</title>
+    <title>Credencial</title>
     <!-- The title tag shows in email notifications, like Android 4.4. -->
     <!-- Please use an inliner tool to convert all CSS to inline as inpage or external CSS is removed by email clients -->
     <!-- important in CSS is used to prevent the styles of currently inline CSS from overriding the ones mentioned in media queries when corresponding screen sizes are encountered -->
@@ -141,7 +141,7 @@ a[x-apple-data-detectors] {
             <!-- Email Header : BEGIN -->
             <table align="center" width="600" class="email-container">
             <tr>
-                <td style="padding: 20px 0; text-align: center"><img src="logo-topo.jpg"" width="200" height="50" alt="alt_text" border="0"></td>
+                <td style="padding: 20px 0; text-align: center"><img src="https://github.com/cassiaribas/logo-topo.jpg"" width="200" height="50" alt="alt_text" border="0"></td>
               </tr>
           </table>
             <!-- Email Header : END --> 
