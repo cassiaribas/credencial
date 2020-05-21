@@ -24,39 +24,6 @@
 			-webkit-text-size-adjust: 100%;
 		}
 				
-				.conteinerimg{
-position: relative;
-wdth:50%;
-margin: 10px;
-
-}
-				.conteiner img{
-display: block;
-width: 100%;
-height: auto;
-
-}
-.sobreposicao{
-position: absolut;
-top:0;
-botton:0;
-left:0;
-right:0
-width:100%
-height: 100%
-opacity: 0;
-background-color:beige;
-overflow:hidden;
-
-
-
-}
-				.conteinerimg:hover .sobreposicao{
-					opacity: 1;
-				}
-				
-				.textoimg
-		
 		
 		.ExternalClass {
 			width: 100%;
