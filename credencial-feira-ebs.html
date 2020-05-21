@@ -165,7 +165,7 @@
 			<body bgcolor="#ffffff" width="100%" style="margin: 0;" yahoo="yahoo">
 			<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" style="border-collapse:collapse;">
 			  <tr>
-				<td bgcolor="#BFBFBF"><center style="width: 100%;">
+				<td><center style="width: 100%;">
 
 				
 					<div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;"> (Optional) This text will appear in the inbox preview, but not the email body. </div>
