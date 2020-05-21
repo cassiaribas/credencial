@@ -174,7 +174,8 @@
 					
 				  <table align="center" width="600" class="email-container">
 					<tr>
-						<td style="padding: 20px 0; text-align: center"><a href="https://www.feiraebs.com.br/"><img src="https://cassiaribas.github.io/credencial/logo-topo.jpg" width="200" height="50" alt="alt_text" border="0"></a></td>
+						<td style="padding: 20px 0; text-align: center"><p><a href="https://www.feiraebs.com.br/"><span style="color:#888888; text-decoration:underline; font-size: 10px;">Caso não consiga visualizar clique aqui</span></a></p>
+					    <p><a href="https://www.feiraebs.com.br/"><img src="https://cassiaribas.github.io/credencial/logo-topo.jpg" width="200" height="50" alt="alt_text" border="0"></a></p></td>
 				    </tr>
 				  </table>
 					<!-- Email Header : END --> 
