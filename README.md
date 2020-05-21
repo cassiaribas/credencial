@@ -247,6 +247,16 @@
 					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/network2.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
 					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/programacao.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
 				          </tr>
+					      <tr>
+					        <td class="stack-column-center"><span style="padding: 40px; text-align:left; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 25px; color: #002b4b;"><strong>Data:</strong> 19 e 20 de agosto de 2020<br>
+				              <strong>Horário:</strong> das 13h30 às 19h<br>
+					          <strong>Local:</strong> Centro de Convenções Rebouças<br>
+					          <strong>Endereço:</strong> Av.Rebouças, 600</span></td>
+					        <td class="stack-column-center"><span style="padding: 40px; text-align:left; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 25px; color: #002b4b;"> <strong>Congresso MICE Brasil (pago):</strong> das 8h30 às 12h30<br>
+				              <strong>Speed Meeting (convidados):</strong> das 10h00 às 12h30 | 14h00 às 16h30<br>
+					          <strong>Feira EBS (gratuito):</strong> das 13h30 às 19h<br>
+			                <strong>Arena Experience (gratuito):</strong> das 14h30 às 18h00</span></td>
+				          </tr>
 				        </table>
 				      unsubscribe</unsubscribe></td>
 					  </tr>
