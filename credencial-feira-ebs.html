@@ -150,6 +150,16 @@
                 margin-left: auto !important;
                 margin-right: auto !important;
 }
+            .fluid1 {						max-width: 100% !important;
+						height: auto !important;
+						margin-left: auto !important;
+						margin-right: auto !important;
+}
+.fluid1 {max-width: 100% !important;
+                height: auto !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+}
             </style>
 			</head>
 			<body bgcolor="#ffffff" width="100%" style="margin: 0;" yahoo="yahoo">
@@ -170,7 +180,7 @@
 					<!-- Email Header : END --> 
 
 					<!-- Email Body : BEGIN -->
-					<table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff" width="600" class="email-container">
+				  <table cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#ffffff" width="600" class="email-container">
 
 				
 					<tr>
@@ -214,27 +224,7 @@
 					  </tr>
 					
 					<tr>
-						<td align="center" valign="top" style="padding: 10px;"><table cellspacing="0" cellpadding="0" border="0" width="100%">
-							<tr>
-							<td class="stack-column-center"><table cellspacing="0" cellpadding="0" border="0">
-							  <tr>
-							    <td style="padding: 10px; text-align: center">
-							<img src="https://cassiaribas.github.io/credencial/network.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid"></td>
-						      </tr>
-							  <tr>
-							    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align:  class="center-on-narrow">&nbsp;</td>
-						      </tr>
-							  </table></td>
-							<td class="stack-column-center"><table cellspacing="0" cellpadding="0" border="0">
-							  <tr>
-							    <td style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/programacao.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid"></td>
-						      </tr>
-							  <tr>
-							    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align:  class="center-on-narrow">&nbsp;</td>
-						      </tr>
-							  </table></td>
-						  </tr>
-						  </table></td>
+						<td align="center" valign="top" style="padding: 10px;">&nbsp;</td>
 					  </tr>
 					<!-- Two Even Columns : END --> 
 
@@ -254,8 +244,8 @@
 					  <unsubscribe style="color:#888888; text-decoration:underline;">
 					    <table cellspacing="0" cellpadding="0" border="0" width="100%">
 					      <tr>
-					        <td class="stack-column-center">&nbsp;</td>
-					        <td class="stack-column-center">&nbsp;</td>
+					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/network.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
+					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/programacao.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
 				          </tr>
 				        </table>
 				      unsubscribe</unsubscribe></td>
