@@ -244,7 +244,7 @@
 					  <unsubscribe style="color:#888888; text-decoration:underline;">
 					    <table cellspacing="0" cellpadding="0" border="0" width="100%">
 					      <tr>
-					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/network.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
+					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/network2.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
 					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/programacao.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
 				          </tr>
 				        </table>
