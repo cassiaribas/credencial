@@ -189,8 +189,8 @@
 					  </tr>
 					
 					<tr>
-						<td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 25px; color: #002b4b;">18ª Feira da Indústria
-						  dos Eventos Corporativos,<br>
+						<td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 25px; color: #002b4b;"><strong>18ª Feira da Indústria
+						  dos Eventos Corporativos</strong><br>
 						  Incentivos, Congressos, Feiras e
 						  Treinamentos &amp; Desenvolvimento<br>
 						<br>
@@ -199,7 +199,7 @@
 
 						<table cellspacing="0" cellpadding="0" border="0" align="center" style="margin: auto">
 							<tr>
-							<td style="border-radius: 5px; background: #f3a015; text-align: center;" class="button-td"><a href="https://www.feiraebs.com.br/feira-ebs-2020/" style="background: #f3a015; border: 15px solid #f3a015; padding: 0 10px;color: #002b4b  ; font-family: sans-serif; font-size: 15px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a"> 
+							<td style="border-radius: 15px; background: #f3a015; text-align: center;" class="button-td"><a href="https://www.feiraebs.com.br/feira-ebs-2020/" style="background: #f3a015; border: 20px solid #f3a015; padding: 0 10px;color: #002b4b  ; font-family: sans-serif; font-size: 15px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a"> 
 							  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Inscreva-se<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--> 
 							  </a></td>
 						  </tr>
