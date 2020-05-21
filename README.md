@@ -23,6 +23,40 @@
 			-ms-text-size-adjust: 100%;
 			-webkit-text-size-adjust: 100%;
 		}
+				
+				.conteinerimg{
+position: relative;
+wdth:50%;
+margin: 10px;
+
+}
+				.conteiner img{
+display: block;
+width: 100%;
+height: auto;
+
+}
+.sobreposicao{
+position: absolut;
+top:0;
+botton:0;
+left:0;
+right:0
+width:100%
+height: 100%
+opacity: 0;
+background-color:beige;
+overflow:hidden;
+
+
+
+}
+				.conteinerimg:hover .sobreposicao{
+					opacity: 1;
+				}
+				
+				.textoimg
+		
 		
 		.ExternalClass {
 			width: 100%;
@@ -58,7 +92,7 @@
 		a[x-apple-data-detectors] {
 			color: inherit !important;
 		}
-		</style>
+		    </style>
 
 		
 			<style type="text/css">
@@ -121,7 +155,35 @@
 
 				}
 
-			</style>
+			.stack-column {						display: block !important;
+						width: 100% !important;
+						max-width: 100% !important;
+						direction: ltr !important;
+}
+.stack-column-center {						display: block !important;
+						width: 100% !important;
+						max-width: 100% !important;
+						direction: ltr !important;
+}
+.stack-column-center {						text-align: center !important;
+}
+            .center-on-narrow {                text-align: center !important;
+                display: block !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                float: none !important;
+}
+.fluid {                max-width: 100% !important;
+                height: auto !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+}
+.fluid-centered {                max-width: 100% !important;
+                height: auto !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+}
+            </style>
 			</head>
 			<body bgcolor="#ffffff" width="100%" style="margin: 0;" yahoo="yahoo">
 			<table bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" height="100%" width="100%" style="border-collapse:collapse;">
@@ -135,7 +197,7 @@
 					
 				  <table align="center" width="600" class="email-container">
 					<tr>
-						<td style="padding: 20px 0; text-align: center"><img src="https://cassiaribas.github.io/credencial//logo-topo.jpg" width="200" height="50" alt="alt_text" border="0"></td>
+						<td style="padding: 20px 0; text-align: center"><img src="https://cassiaribas.github.io/credencial/logo-topo.jpg" width="200" height="50" alt="alt_text" border="0"></td>
 				    </tr>
 				  </table>
 					<!-- Email Header : END --> 
@@ -145,13 +207,13 @@
 
 				
 					<tr>
-						<td width="100%" class="full-width-image"><img src="https://cassiaribas.github.io/credencial/topo.jpg" width="600" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto;" href="https://www.feiraebs.com.br/feira-ebs-2020/"></td>
+						<td width="100%" class="full-width-image"><img src="https://cassiaribas.github.io/credencial/topo2.jpg" width="600" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto;" href="https://www.feiraebs.com.br/feira-ebs-2020/"></td>
 					  </tr>
 					
 					<tr>
-						<td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 20px; mso-height-rule: exactly; line-height: 25px; color: #002b4b;">18ª Feira da Indústria<br>
+						<td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 25px; color: #002b4b;">18ª Feira da Indústria
 						  dos Eventos Corporativos,<br>
-						  Incentivos, Congressos, Feiras e<br>
+						  Incentivos, Congressos, Feiras e
 						  Treinamentos &amp; Desenvolvimento<br>
 						<br>
 
@@ -159,7 +221,7 @@
 
 						<table cellspacing="0" cellpadding="0" border="0" align="center" style="margin: auto">
 							<tr>
-							<td style="border-radius: 3px; background: #f3a015; text-align: center;" class="button-td"><a href="https://www.feiraebs.com.br/feira-ebs-2020/" style="background: #f3a015; border: 15px solid #f3a015; padding: 0 10px;color: #002b4b  ; font-family: sans-serif; font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a"> 
+							<td style="border-radius: 5px; background: #f3a015; text-align: center;" class="button-td"><a href="https://www.feiraebs.com.br/feira-ebs-2020/" style="background: #f3a015; border: 15px solid #f3a015; padding: 0 10px;color: #002b4b  ; font-family: sans-serif; font-size: 15px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold;" class="button-a"> 
 							  <!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]-->Inscreva-se<!--[if mso]>&nbsp;&nbsp;&nbsp;&nbsp;<![endif]--> 
 							  </a></td>
 						  </tr>
@@ -187,8 +249,29 @@
 					<tr>
 						<td align="center" valign="top" style="padding: 10px;"><table cellspacing="0" cellpadding="0" border="0" width="100%">
 							<tr>
-							<td class="stack-column-center">&nbsp;</td>
-							<td class="stack-column-center">&nbsp;</td>
+							<td class="stack-column-center"><table cellspacing="0" cellpadding="0" border="0">
+							  <tr>
+							    <td style="padding: 10px; text-align: center">
+							<img src="https://cassiaribas.github.io/credencial/network.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid"></td>
+						      </tr>
+							  <tr>
+							    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align:  class="center-on-narrow">Data: <strong>19 e 20 de agosto de 2020</strong><br>
+							      Horário:<strong> das 13h30 às 19h</strong><br>
+							      Local: <strong>Centro de Convenções Rebouças</strong><br>
+						        Endereço: <strong>Avenida Rebouças, 600 - Pinheiros, São Paulo-SP</strong></td>
+						      </tr>
+							  </table></td>
+							<td class="stack-column-center"><table cellspacing="0" cellpadding="0" border="0">
+							  <tr>
+							    <td style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/programacao.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid"></td>
+						      </tr>
+							  <tr>
+							    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align:  class="center-on-narrow"><strong>Congresso MICE Brasil (pago):</strong> das 8h30 às 12h30<br>
+							      <strong>Speed Meeting (convidados):</strong> das 10h00 às 12h30 | 14h00 às 16h30<br>
+							      <strong>Feira EBS (gratuito):</strong> das 13h30 às 19h<br>
+						        <strong>Arena Experience (gratuito):</strong> das 14h30 às 18h00</td>
+						      </tr>
+							  </table></td>
 						  </tr>
 						  </table></td>
 					  </tr>
@@ -206,13 +289,15 @@
 					<!-- Email Footer : BEGIN -->
 					<table align="center" width="600" class="email-container">
 					<tr>
-						<td style="padding: 40px 10px;width: 100%;font-size: 12px; font-family: sans-serif; mso-height-rule: exactly; line-height:18px; text-align: center; color: #888888;"><webversion style="color:#cccccc; text-decoration:underline; font-weight: bold;">View as a Web Page</webversion>
-						<br>
-						<br>
-						Company Name<br>
-						<span class="mobile-link--footer">Adobe Systems Incorporated, 345 Park Avenue</span> <br>
-						<br>
-						<unsubscribe style="color:#888888; text-decoration:underline;">unsubscribe</unsubscribe></td>
+						<td style="padding: 40px 10px;width: 100%;font-size: 12px; font-family: sans-serif; mso-height-rule: exactly; line-height:18px; text-align: center; color: #888888;"><webversion style="color:#cccccc; text-decoration:underline; font-weight: bold;"></webversion>
+					  <unsubscribe style="color:#888888; text-decoration:underline;">
+					    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+					      <tr>
+					        <td class="stack-column-center">&nbsp;</td>
+					        <td class="stack-column-center">&nbsp;</td>
+				          </tr>
+				        </table>
+				      unsubscribe</unsubscribe></td>
 					  </tr>
 				  </table>
 					<!-- Email Footer : END -->
