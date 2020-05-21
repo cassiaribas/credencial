@@ -174,7 +174,7 @@
 					
 				  <table align="center" width="600" class="email-container">
 					<tr>
-						<td style="padding: 20px 0; text-align: center"><img src="https://cassiaribas.github.io/credencial/logo-topo.jpg" width="200" height="50" alt="alt_text" border="0"></td>
+						<td style="padding: 20px 0; text-align: center"><a href="https://www.feiraebs.com.br/"><img src="https://cassiaribas.github.io/credencial/logo-topo.jpg" width="200" height="50" alt="alt_text" border="0"></a></td>
 				    </tr>
 				  </table>
 					<!-- Email Header : END --> 
@@ -245,7 +245,7 @@
 					    <table cellspacing="0" cellpadding="0" border="0" width="100%">
 					      <tr>
 					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/network2.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
-					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/programacao.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></span></td>
+					        <td class="stack-column-center"><span style="padding: 10px; text-align: center"><a href="https://www.feiraebs.com.br/sobre-a-feira-ebs.php"><img src="https://cassiaribas.github.io/credencial/programacao.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid1"></a></span></td>
 				          </tr>
 					      <tr>
 					        <td class="stack-column-center"><span style="padding: 40px; text-align:left; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 25px; color: #002b4b;"><strong>Data:</strong> 19 e 20 de agosto de 2020<br>
