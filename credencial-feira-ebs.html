@@ -222,10 +222,7 @@
 							<img src="https://cassiaribas.github.io/credencial/network.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid"></td>
 						      </tr>
 							  <tr>
-							    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align:  class="center-on-narrow">Data: <strong>19 e 20 de agosto de 2020</strong><br>
-							      Horário:<strong> das 13h30 às 19h</strong><br>
-							      Local: <strong>Centro de Convenções Rebouças</strong><br>
-						        Endereço: <strong>Avenida Rebouças, 600 - Pinheiros, São Paulo-SP</strong></td>
+							    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align:  class="center-on-narrow">&nbsp;</td>
 						      </tr>
 							  </table></td>
 							<td class="stack-column-center"><table cellspacing="0" cellpadding="0" border="0">
@@ -233,10 +230,7 @@
 							    <td style="padding: 10px; text-align: center"><img src="https://cassiaribas.github.io/credencial/programacao.jpg" width="270" height="270" alt="alt_text" border="0" class="fluid"></td>
 						      </tr>
 							  <tr>
-							    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align:  class="center-on-narrow"><strong>Congresso MICE Brasil (pago):</strong> das 8h30 às 12h30<br>
-							      <strong>Speed Meeting (convidados):</strong> das 10h00 às 12h30 | 14h00 às 16h30<br>
-							      <strong>Feira EBS (gratuito):</strong> das 13h30 às 19h<br>
-						        <strong>Arena Experience (gratuito):</strong> das 14h30 às 18h00</td>
+							    <td style="font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; padding: 0 10px 10px; text-align:  class="center-on-narrow">&nbsp;</td>
 						      </tr>
 							  </table></td>
 						  </tr>
